@@ -6,7 +6,7 @@ API to integrate Electronic Signatures with the eSign system owned by the local 
 
 ###### POST Parameters (Raw) :
 
-. judul: "Title of the letter"
+1. judul: "Title of the letter"
 . nomor: "Number of the letter to be signed"
 . passphrase: "Passphrase of the electronic signature owner/signer user"
 . nik: "National Identity Number (NIK) of the signer"
